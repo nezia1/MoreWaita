@@ -15,6 +15,8 @@ regular_files = [
     'jdownloader-indicator.svg',
     'keepassxc-locked.svg',
     'keepassxc-unlocked.svg',
+    'my-caffeine-off-symbolic.svg',
+    'my-caffeine-on-symbolic.svg',
     'pamac-tray-no-update.svg',
     'pamac-tray-update.svg',
     'protonvpn-tray.svg',
